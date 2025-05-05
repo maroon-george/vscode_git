@@ -1,1 +1,3 @@
 # TESTING GIT THROUGH A GUI
+
+- Commit 1
